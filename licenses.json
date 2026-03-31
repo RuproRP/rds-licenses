@@ -6,5 +6,8 @@
   "RBC-V62-RDS": true,
   "RSN-V62-RDS": true,
   "RLS-V62-RDS": true,
-  "RPL-V272-RDS": true
+  "RPL-V272-RDS": true,
+  "RNB-M313-RDS": true,
+  "RSP-M313-RDS": true,
+  "RAT-M313-RDS": true,
 }
