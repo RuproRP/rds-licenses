@@ -17,5 +17,6 @@
   "ALB-V1004-ATPD": true,
   "RPC-1104-RDS": true,
   "RPPA-1104-ATPD": true,
-  "RMC-1104-RDS": true
+  "RMC-1104-RDS": true,
+  "RCK-1104-RDS": true
 }
